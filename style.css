@@ -16,6 +16,27 @@ Version:        1
 
 */
 
+/* FONTS */
+
+p, li {
+	font-family: 'Questrial', sans-serif;
+	color: #2b2b2b;
+}
+
+
+/* FOOTER */
+
+.footer-logo {
+	text-align: center;
+}
+
+#footer .footer-logo img {
+	max-width: 130px;
+	padding: 30px 0px 25px 0px;
+}
+
+
+/* ALL */
 
 ::selection
 {

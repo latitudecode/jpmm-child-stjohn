@@ -2,11 +2,26 @@
 <div class="mapper">
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3057.2543478079137!2d-75.1346875481624!3d39.98042097931742!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c6c8160951b821%3A0x80b777554eb53fba!2s2016+Amber+St%2C+Philadelphia%2C+PA+19125!5e0!3m2!1sen!2sus!4v1488661740501" width="100%" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>
 </div>
-<!--/ end full width mapper -->
+<! end full width mapper -->
 		
+<!-- new slim footy -->
+<div class="container_wrap footer_color" id="footer">
 
-<!-- new footy -->
+<div class="container">
 
+	<div class="footer-logo">
+		<a href="/">
+			<img src="http://localhost:8888/wp-content/uploads/2018/07/logo-footer.png" />
+		</a>
+	</div>
+
+</div>
+
+</div>
+<!-- / end new slim footy -->
+
+
+<!-- new slim footy -->
 <div class="container_wrap footer_color" id="footer">
 
 <div class="container">
@@ -16,13 +31,13 @@
 	</div>
 
 	<div class="fr">
-		<p>© 2017</p>
+		<p>© 2018</p>
 	</div>
 
 </div>
 
 </div>
-<!-- / end new footy -->
+<!-- / end new slim footy -->
 
 
 

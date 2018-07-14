@@ -59,6 +59,9 @@ wp_head();
 <!-- font awesome -->
 <script src="https://use.fontawesome.com/008e90267e.js"></script>
 
+<!-- google fonts -->
+<link href="https://fonts.googleapis.com/css?family=Questrial" rel="stylesheet">
+
 </head>
 
 
