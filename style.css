@@ -35,13 +35,39 @@ p, li {
 	padding: 30px 0px 25px 0px;
 }
 
+/* SCROL NAV */
+
+body #header strong.logo a {
+	top: 4px !important; 
+}
+
+.logo img {
+    max-width: 175px;
+}
 
 /* ALL */
 
+#top #wrap_all .main_color h2, #top #wrap_all .alternate_color h2 {
+	font-weight: 600;
+    letter-spacing: 13px;
+}
+
+body.home #wrap_all #full_slider_1 .slideshow_inner_caption {
+	padding-top: 60px;
+}
+
 ::selection
 {
-	background-color:#ffe32b;
-	color:#363636;
+	background-color: #81dcfd !important;
+	color: #363636 !important;
+}
+
+div#header_main {
+    height: 85px;
+}
+
+p.form_element {
+    text-align: center;
 }
 
 
@@ -355,13 +381,17 @@ body.home #wrap_all form p label
 body.home#top #wrap_all form p input.button
 {
 	border: none;
-	font-size: 20px;
+	font-size: 16px;
 	font-family: "Lato";
 	font-weight: 400;
 	color:#fff;
-	background-color: #2739c5;
+	background-color: #01abe9;
 	padding:15px 25px;
 	border-radius: 0px;
+	text-transform: uppercase;
+	font-family: inherit;
+	letter-spacing: 2px;
+	text-align: center !important;
 }
 
 body.home#top #wrap_all form p input.button:hover
@@ -1710,17 +1740,18 @@ width: 100%;
 /* highlights */
 
 	.blocker {
-	background-color: #285ba1;
+	background-color: #fff;
     height: 200px;
     width: 125%;
     border-radius: 3px;
-    border: 3px solid #284f84 !important;
+    border: 1px solid #bdbdbd !important;
     margin: 8px;
+    opacity: .4;
 
 	}
 
 	.blocker h2 {
-		color: #fff !important;
+		color: #01abe9 !important;
 	    font-size: 90px;
 	    text-align: center;
 	    padding-top: 30px;
@@ -1730,7 +1761,7 @@ width: 100%;
 
 	.blocker p {
 		text-align: center;
-		color: #fff;
+		color: #01abe9;
 		margin: 0px 15px 0px 15px;
 		line-height: 16px;
 	}
@@ -1806,7 +1837,7 @@ iframe {
 /* Top contact */
 
 i {
-	color: #285ba1;
+	color: #01abe8;
 	margin-right: 6px;
 }
 

@@ -61,6 +61,7 @@ wp_head();
 
 <!-- google fonts -->
 <link href="https://fonts.googleapis.com/css?family=Questrial" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Josefin+Sans:400,600" rel="stylesheet">
 
 </head>
 

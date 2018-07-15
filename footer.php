@@ -27,7 +27,7 @@
 <div class="container">
 
 	<div class="fl">
-		<p>267-551-1215&nbsp;&nbsp;&nbsp;info@northerntreatylofts.com</p>
+		<p>267-551-1215&nbsp;&nbsp;&nbsp;info@stjohnlofts.com</p>
 	</div>
 
 	<div class="fr">
