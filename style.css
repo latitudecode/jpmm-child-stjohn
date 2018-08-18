@@ -45,6 +45,19 @@ body #header strong.logo a {
     max-width: 175px;
 }
 
+#top #header_main > .container .main_menu ul:first-child > li > a {
+	color: #fff;
+	font-size: 18px;
+}
+
+.header-scrolled a {
+	color: #2b2b2b !important;
+	font-size: 18px;	
+}
+
+
+
+
 /* ALL */
 
 #top #wrap_all .main_color h2, #top #wrap_all .alternate_color h2 {
