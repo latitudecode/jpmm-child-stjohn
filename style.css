@@ -215,7 +215,7 @@ body.home #header.av_header_transparency nav ul li a span.avia-menu-text
 
 #top #header .av-main-nav > li:hover  > a .avia-menu-text, #top #header .av-main-nav > li:hover > a .avia-menu-subtext
 {
-	color:#ffffff;
+	color:#01aae8;
 }
 
 body #header strong.logo a
@@ -2047,6 +2047,11 @@ ul.contacts {
 
 .avia_ajax_form .form_element_half {
 	width: 100%;
+}
+
+
+.responsive #top .av_header_transparency.av_alternate_logo_active .logo a > img {
+	max-width: 160px;
 }
 
 }
